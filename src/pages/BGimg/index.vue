@@ -238,7 +238,6 @@ export default {
 .posterWrap {
   min-height: 100%;
   padding-top: 40px;
-  background-color: #f1f1f1;
 }
 
 .myCanvas {

@@ -31,6 +31,10 @@ export default {
 </script>
 
 <style>
+page{
+  min-height: 100%;
+  background-color: #fff;
+}
 .container {
   height: 100%;
   display: flex;
